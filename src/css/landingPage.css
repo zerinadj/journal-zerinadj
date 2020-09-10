@@ -1,0 +1,8 @@
+.landingPage {
+    display: -ms-inline-grid;
+    grid-template-rows: 40% 60%;
+}
+
+img {
+    height: 500px;
+}
